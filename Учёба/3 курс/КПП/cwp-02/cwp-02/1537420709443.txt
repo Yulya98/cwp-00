@@ -1,0 +1,8 @@
+connect: QA
+Are you here?
+answer:Are you here?. Yes. Right
+Are you stupid?
+I don't know this word
+Are you stupid?
+answer:Are you stupid?. No. FalseAre you not stupid?
+answer:Are you not stupid?. No. Right
