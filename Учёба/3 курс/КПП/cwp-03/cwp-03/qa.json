@@ -1,0 +1,12 @@
+{
+  "questions":[
+    "Are you here?",
+    "Are you stupid?",
+    "Are you not stupid?"
+  ],
+  "answer": [
+    "Yes",
+    "Yes",
+    "No"
+  ]
+}
